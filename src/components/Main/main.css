@@ -1,0 +1,9 @@
+.main{
+    background-color: lightblue;
+    flex-grow: 5;
+    border-radius: 7px;
+    overflow: auto;
+}
+h2{
+    margin-left: 20px;
+}

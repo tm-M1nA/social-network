@@ -1,0 +1,42 @@
+
+.Bill{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+}
+.Jeff{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+}
+.Steve{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+    width: 270px;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.users p{
+    opacity: 50%;
+    padding: 5px;
+    margin: 5px;
+}
+.Pavel{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+}
+.Bill_img{
+    width: 100%;
+}

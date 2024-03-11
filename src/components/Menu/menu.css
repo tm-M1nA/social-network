@@ -1,0 +1,23 @@
+.menu{
+    background-color: lightblue;
+    border-radius:7px;
+    flex-grow: 1;
+    margin-right: 20px;
+}
+.menu_content{
+    text-align: center;
+    margin-top: 10px;
+}
+li{
+    font-size: large;
+    margin-top: 20px;
+}
+.active{
+    background-color: aliceblue;
+    padding: 7px;
+    border-radius: 10px;
+}
+li a{
+    text-decoration: none;
+    color:black;
+}

@@ -1,0 +1,65 @@
+.messagesContent{
+    height: 600px;
+    overflow: auto;
+}
+.Messages{
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+}
+.firstSend{
+    text-align: left;
+    background-color:dodgerblue;
+    border-radius: 5px;
+    margin-right: 300px;
+
+}
+.secondSend{
+    text-align: right;
+    margin-right: 20px;
+    margin-left: 300px;
+    background-color:cadetblue;
+    border-radius: 5px;
+    
+}
+.sendInput{
+    width: 350px;
+}
+.dialog-item{
+    height: 70px;
+    padding:10px;
+    display: flex;
+    background-color: white;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+.dialogImg{
+    height: 50px;
+    border-radius: 100%;
+    width: 50px;
+}
+.dialogs{
+    flex-grow: 1;
+    border:solid red 2px;
+    padding: 10px;
+}
+.Chat{
+    flex-grow: 1;
+    border:solid black 2px;
+}
+.dialog-item p{
+    margin:0;
+}
+.dialog-info{
+    margin-left:20px;
+}
+.dialog-person{
+    font-weight: bold;
+}
+.dialog-lastMes{
+    font-style: italic;
+    color:rgb(181, 178, 178);
+}
+.userActive{
+background-color:cadetblue;
+}
